@@ -34,7 +34,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "katex": "^0.7.0",
+    "katex": "0.8.3",
     "prop-types": "^15.5.10",
     "react": "^15.3.2"
   },
